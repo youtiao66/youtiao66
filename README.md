@@ -6,6 +6,8 @@ My name is youtiao66. Welcome👋👋👋
 
 ![youtiao66-count](https://komarev.com/ghpvc/?username=youtiao66)
 
+![youtiao66's github stats](https://github-readme-stats.vercel.app/api?username=youtiao66)
+
 <!--
 **youtiao66/youtiao66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
